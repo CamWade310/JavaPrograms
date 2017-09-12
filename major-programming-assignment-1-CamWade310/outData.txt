@@ -1,0 +1,963 @@
+Bank of AggieLand#2333 Friendly Avenue, Greensboro, NC 28408#336-334-7245#1000000.0
+Claude#Fowler#10000#11/11/1980#3948 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9000#3
+savings#5789-10000168#7391.21#11#11
+credit#09/26/2013#6338.0#initial deposit
+debit#08/21/2013#468.54#misc debit
+debit#09/07/2013#23.27#misc debit
+debit#06/19/2013#59.47#misc debit
+credit#11/10/2013#502.35#misc credit
+credit#12/11/2013#392.7#misc credit
+debit#01/22/2013#442.75#misc debit
+credit#03/28/2013#310.89#misc credit
+credit#12/13/2013#61.2#misc credit
+credit#06/13/2013#393.88#misc credit
+credit#09/15/2013#386.22#misc credit
+checking#9241-10000811#5640.5599999999995#5#5
+credit#06/21/2013#5560.0#initial deposit
+credit#03/23/2013#252.36#misc credit
+debit#02/13/2013#482.0#misc debit
+debit#08/09/2013#325.8#misc debit
+credit#3/4/17 9:25 PM#636.0#You deposited money
+checking#8837-1000017#9160.73#8#8
+credit#05/01/2013#8966.0#initial deposit
+credit#10/14/2013#411.25#misc credit
+debit#01/09/2013#48.79#misc debit
+credit#03/17/2013#467.96#misc credit
+debit#02/10/2013#89.71#misc debit
+debit#09/11/2013#422.31#misc debit
+credit#05/15/2013#327.43#misc credit
+debit#02/15/2013#451.1#misc debit
+Cody#Green#10050#07/09/1984#3674 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9020#5
+checking#8871-10000905#8793.45#19#19
+credit#08/14/2013#8774.0#initial deposit
+credit#01/22/2013#24.38#misc credit
+credit#08/07/2013#216.4#misc credit
+credit#06/05/2013#309.53#misc credit
+credit#02/01/2013#75.73#misc credit
+debit#10/24/2013#54.45#misc debit
+debit#10/09/2013#68.41#misc debit
+debit#01/11/2013#349.75#misc debit
+debit#08/06/2013#267.16#misc debit
+debit#09/09/2013#93.98#misc debit
+credit#09/21/2013#125.95#misc credit
+credit#10/28/2013#295.19#misc credit
+credit#01/20/2013#446.72#misc credit
+credit#11/17/2013#148.77#misc credit
+credit#07/14/2013#214.1#misc credit
+debit#09/01/2013#472.05#misc debit
+debit#02/25/2013#370.39#misc debit
+debit#01/08/2013#110.45#misc debit
+debit#08/27/2013#50.68#misc debit
+checking#6523-10000936#8425.130000000001#6#6
+credit#11/03/2013#9448.0#initial deposit
+debit#10/16/2013#220.98#misc debit
+debit#11/10/2013#480.07#misc debit
+debit#01/21/2013#371.05#misc debit
+credit#11/02/2013#437.32#misc credit
+debit#11/10/2013#388.09#misc debit
+checking#6476-10000822#5915.219999999999#17#17
+credit#09/26/2013#6030.0#initial deposit
+debit#04/10/2013#232.59#misc debit
+credit#05/25/2013#498.65#misc credit
+debit#10/23/2013#272.78#misc debit
+debit#05/16/2013#494.66#misc debit
+debit#11/11/2013#118.81#misc debit
+debit#06/03/2013#451.68#misc debit
+credit#07/15/2013#429.36#misc credit
+debit#05/02/2013#405.4#misc debit
+credit#05/19/2013#322.66#misc credit
+credit#11/24/2013#412.15#misc credit
+credit#01/23/2013#237.69#misc credit
+debit#03/15/2013#409.37#misc debit
+credit#08/19/2013#143.27#misc credit
+credit#09/20/2013#297.41#misc credit
+credit#07/10/2013#165.43#misc credit
+debit#03/05/2013#236.11#misc debit
+checking#5893-10000890#5538.150000000001#7#7
+credit#06/19/2013#5260.0#initial deposit
+credit#06/25/2013#191.18#misc credit
+debit#02/05/2013#46.13#misc debit
+credit#08/14/2013#229.75#misc credit
+debit#05/11/2013#226.12#misc debit
+debit#04/23/2013#184.61#misc debit
+credit#06/01/2013#314.08#misc credit
+checking#8456-10000881#8450.9#18#18
+credit#05/02/2013#7960.0#initial deposit
+debit#04/14/2013#25.7#misc debit
+debit#10/09/2013#488.18#misc debit
+debit#10/03/2013#357.19#misc debit
+debit#10/07/2013#32.23#misc debit
+credit#05/28/2013#496.07#misc credit
+debit#03/24/2013#206.94#misc debit
+credit#05/17/2013#207.85#misc credit
+credit#03/08/2013#387.98#misc credit
+credit#12/08/2013#398.24#misc credit
+credit#06/27/2013#321.76#misc credit
+debit#07/24/2013#159.93#misc debit
+credit#04/05/2013#10.47#misc credit
+credit#08/25/2013#270.17#misc credit
+debit#04/03/2013#487.87#misc debit
+debit#07/25/2013#361.44#misc debit
+credit#05/23/2013#215.23#misc credit
+credit#02/24/2013#302.61#misc credit
+Inez#Johnston#10100#10/12/1976#625 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9040#1
+checking#5625-10000845#8413.48#3#3
+credit#11/27/2013#7899.0#initial deposit
+credit#02/14/2013#196.27#misc credit
+credit#02/20/2013#318.21#misc credit
+Brandi#Lamb#10150#11/05/1980#1118 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9060#2
+checking#6912-100002#9984.999999999998#19#19
+credit#06/23/2013#8454.0#initial deposit
+credit#03/21/2013#478.22#misc credit
+credit#10/01/2013#480.3#misc credit
+debit#07/07/2013#127.32#misc debit
+credit#12/04/2013#85.57#misc credit
+debit#07/23/2013#300.04#misc debit
+debit#12/26/2013#275.94#misc debit
+credit#06/06/2013#489.19#misc credit
+debit#05/28/2013#448.85#misc debit
+debit#04/20/2013#211.62#misc debit
+credit#05/20/2013#267.86#misc credit
+credit#06/23/2013#303.67#misc credit
+credit#05/21/2013#369.49#misc credit
+credit#12/13/2013#404.04#misc credit
+credit#11/09/2013#426.57#misc credit
+credit#03/10/2013#299.91#misc credit
+debit#09/21/2013#413.32#misc debit
+debit#04/03/2013#45.21#misc debit
+debit#05/01/2013#251.52#misc debit
+checking#5908-10000442#6407.85#3#3
+credit#07/25/2013#7333.0#initial deposit
+debit#05/21/2013#484.16#misc debit
+debit#04/17/2013#440.99#misc debit
+Manuel#Wolfe#10200#11/26/1987#2192 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9080#1
+checking#8076-10000187#7008.74#14#14
+credit#12/02/2013#8005.0#initial deposit
+credit#06/13/2013#342.74#misc credit
+debit#01/17/2013#389.45#misc debit
+debit#11/02/2013#437.97#misc debit
+debit#08/21/2013#364.3#misc debit
+debit#07/07/2013#168.72#misc debit
+credit#11/26/2013#217.39#misc credit
+debit#11/01/2013#114.21#misc debit
+credit#11/09/2013#459.2#misc credit
+debit#10/18/2013#486.05#misc debit
+debit#04/28/2013#207.38#misc debit
+credit#12/11/2013#143.18#misc credit
+debit#08/17/2013#357.33#misc debit
+credit#05/02/2013#366.64#misc credit
+Jamie#Knight#10250#10/23/1967#4686 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9100#4
+savings#7309-10000981#7750.200000000003#13#13
+credit#04/16/2013#8485.0#initial deposit
+credit#12/09/2013#281.45#misc credit
+debit#08/19/2013#180.38#misc debit
+credit#09/03/2013#188.78#misc credit
+debit#08/12/2013#209.43#misc debit
+credit#08/25/2013#108.33#misc credit
+credit#03/15/2013#203.82#misc credit
+debit#11/05/2013#150.41#misc debit
+credit#08/12/2013#152.61#misc credit
+debit#06/13/2013#387.14#misc debit
+debit#12/21/2013#97.92#misc debit
+debit#05/11/2013#405.93#misc debit
+debit#04/22/2013#238.58#misc debit
+savings#8895-10000746#6501.690000000001#12#12
+credit#11/01/2013#5012.0#initial deposit
+credit#06/21/2013#140.93#misc credit
+credit#02/23/2013#450.52#misc credit
+credit#10/17/2013#340.03#misc credit
+credit#08/22/2013#474.9#misc credit
+credit#10/18/2013#165.81#misc credit
+debit#10/27/2013#367.66#misc debit
+credit#12/22/2013#166.47#misc credit
+debit#09/15/2013#396.44#misc debit
+credit#01/03/2013#194.15#misc credit
+credit#05/06/2013#43.42#misc credit
+credit#04/20/2013#277.56#misc credit
+checking#5636-10000428#4778.879999999999#18#18
+credit#09/06/2013#5560.0#initial deposit
+credit#01/27/2013#117.5#misc credit
+credit#09/20/2013#121.53#misc credit
+debit#08/01/2013#471.1#misc debit
+debit#03/22/2013#19.19#misc debit
+debit#11/12/2013#502.21#misc debit
+credit#12/03/2013#429.63#misc credit
+debit#10/05/2013#184.95#misc debit
+debit#05/28/2013#65.43#misc debit
+debit#04/20/2013#469.27#misc debit
+credit#08/16/2013#148.32#misc credit
+debit#04/23/2013#14.14#misc debit
+debit#01/27/2013#57.39#misc debit
+debit#02/14/2013#288.27#misc debit
+credit#01/17/2013#261.26#misc credit
+debit#05/26/2013#125.28#misc debit
+debit#05/25/2013#162.33#misc debit
+credit#08/15/2013#500.2#misc credit
+savings#6967-10000931#6198.24#5#5
+credit#07/12/2013#5478.0#initial deposit
+credit#04/04/2013#347.62#misc credit
+credit#03/16/2013#208.3#misc credit
+debit#07/01/2013#246.16#misc debit
+credit#03/17/2013#410.48#misc credit
+Rogelio#Rivera#10300#05/06/1977#4499 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9120#4
+savings#6110-10000893#8861.589999999998#5#5
+credit#09/11/2013#8804.0#initial deposit
+credit#03/10/2013#136.41#misc credit
+credit#03/27/2013#418.38#misc credit
+debit#12/19/2013#290.77#misc debit
+debit#04/24/2013#206.43#misc debit
+checking#9975-10000318#8974.0#3#3
+credit#01/23/2013#9045.0#initial deposit
+credit#07/11/2013#428.41#misc credit
+debit#11/20/2013#499.41#misc debit
+savings#8916-10000183#8632.79#18#18
+credit#10/26/2013#8238.0#initial deposit
+credit#08/08/2013#243.43#misc credit
+credit#11/24/2013#151.01#misc credit
+debit#12/25/2013#184.52#misc debit
+debit#11/26/2013#417.04#misc debit
+credit#12/04/2013#212.56#misc credit
+credit#06/26/2013#120.05#misc credit
+debit#10/10/2013#343.99#misc debit
+debit#06/05/2013#167.62#misc debit
+credit#03/26/2013#220.41#misc credit
+debit#10/23/2013#310.54#misc debit
+credit#03/13/2013#19.03#misc credit
+debit#04/12/2013#402.88#misc debit
+debit#12/20/2013#328.15#misc debit
+credit#03/22/2013#442.94#misc credit
+credit#07/26/2013#470.33#misc credit
+credit#05/14/2013#409.48#misc credit
+credit#02/24/2013#260.29#misc credit
+savings#9849-1000085#10810.41#18#18
+credit#08/26/2013#9718.0#initial deposit
+credit#03/06/2013#479.72#misc credit
+debit#08/21/2013#78.9#misc debit
+credit#10/10/2013#276.94#misc credit
+credit#12/13/2013#29.86#misc credit
+credit#01/11/2013#318.88#misc credit
+credit#02/24/2013#380.79#misc credit
+debit#06/01/2013#400.95#misc debit
+credit#07/17/2013#302.16#misc credit
+debit#01/13/2013#163.02#misc debit
+credit#09/25/2013#495.75#misc credit
+debit#04/23/2013#245.7#misc debit
+debit#02/03/2013#182.61#misc debit
+debit#02/20/2013#305.84#misc debit
+credit#12/25/2013#299.2#misc credit
+credit#10/08/2013#243.15#misc credit
+debit#08/21/2013#118.31#misc debit
+debit#06/13/2013#238.71#misc debit
+Mack#Soto#10350#09/06/1981#1373 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9140#3
+checking#6723-10000150#5501.6#11#11
+credit#02/20/2013#5511.0#initial deposit
+credit#08/07/2013#165.76#misc credit
+debit#06/18/2013#117.07#misc debit
+debit#08/15/2013#194.89#misc debit
+credit#06/21/2013#438.71#misc credit
+debit#10/17/2013#292.7#misc debit
+debit#12/16/2013#417.73#misc debit
+credit#11/27/2013#211.31#misc credit
+debit#01/04/2013#19.07#misc debit
+credit#08/10/2013#24.58#misc credit
+credit#07/16/2013#191.7#misc credit
+savings#7735-10000594#7609.729999999998#16#16
+credit#02/15/2013#5858.0#initial deposit
+debit#02/25/2013#90.09#misc debit
+credit#07/04/2013#456.86#misc credit
+credit#08/26/2013#199.23#misc credit
+credit#08/06/2013#44.26#misc credit
+credit#02/10/2013#303.04#misc credit
+credit#12/03/2013#219.87#misc credit
+credit#12/19/2013#151.79#misc credit
+credit#04/25/2013#404.58#misc credit
+credit#09/08/2013#206.28#misc credit
+credit#03/09/2013#78.86#misc credit
+debit#02/19/2013#161.85#misc debit
+credit#09/17/2013#339.23#misc credit
+credit#12/11/2013#39.76#misc credit
+debit#09/03/2013#390.62#misc debit
+debit#01/27/2013#49.47#misc debit
+savings#6215-10000262#5540.7#4#4
+credit#09/11/2013#5407.0#initial deposit
+debit#07/21/2013#71.1#misc debit
+credit#12/22/2013#139.21#misc credit
+credit#12/08/2013#65.59#misc credit
+Guadalupe#Caldwell#10400#08/28/1986#1847 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9160#2
+checking#8845-1000080#9307.27#5#5
+credit#04/02/2013#9431.0#initial deposit
+credit#01/06/2013#180.85#misc credit
+debit#09/21/2013#336.51#misc debit
+credit#05/09/2013#431.02#misc credit
+debit#11/28/2013#399.09#misc debit
+savings#9227-10000758#8927.339999999997#12#12
+credit#06/26/2013#9602.0#initial deposit
+debit#01/27/2013#179.12#misc debit
+debit#08/07/2013#247.18#misc debit
+credit#06/20/2013#46.4#misc credit
+debit#11/08/2013#111.44#misc debit
+credit#06/25/2013#155.15#misc credit
+debit#04/04/2013#159.98#misc debit
+debit#12/27/2013#403.75#misc debit
+debit#10/10/2013#340.76#misc debit
+debit#02/09/2013#143.11#misc debit
+credit#06/21/2013#484.4#misc credit
+credit#05/24/2013#224.73#misc credit
+Roland#Coleman#10450#03/15/1968#4998 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9180#1
+savings#6257-10000828#7808.949999999999#11#11
+credit#07/08/2013#8980.0#initial deposit
+debit#10/28/2013#219.54#misc debit
+debit#09/26/2013#273.24#misc debit
+debit#04/17/2013#159.92#misc debit
+credit#02/18/2013#96.84#misc credit
+debit#10/05/2013#119.07#misc debit
+debit#10/19/2013#459.52#misc debit
+debit#11/03/2013#205.05#misc debit
+debit#08/03/2013#281.06#misc debit
+credit#04/24/2013#366.22#misc credit
+credit#05/15/2013#83.29#misc credit
+Edith#Perez#10500#11/22/1965#2722 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9200#3
+savings#6612-10000979#7304.4#2#2
+credit#10/20/2013#6915.0#initial deposit
+credit#05/11/2013#389.4#misc credit
+checking#7981-10000122#5165.660000000001#11#11
+credit#01/09/2013#6361.0#initial deposit
+debit#06/26/2013#424.57#misc debit
+credit#08/18/2013#223.16#misc credit
+debit#12/11/2013#33.69#misc debit
+debit#10/13/2013#297.53#misc debit
+debit#11/07/2013#12.43#misc debit
+debit#08/19/2013#164.23#misc debit
+debit#05/02/2013#182.5#misc debit
+debit#03/08/2013#474.44#misc debit
+credit#08/28/2013#385.82#misc credit
+debit#01/13/2013#214.93#misc debit
+checking#6519-10000366#8632.7#2#2
+credit#02/12/2013#8124.0#initial deposit
+credit#12/22/2013#508.7#misc credit
+Gabriel#Lindsey#10550#11/04/1974#2872 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9220#4
+checking#8942-10000252#7607.19#15#15
+credit#03/25/2013#5476.0#initial deposit
+credit#09/23/2013#389.24#misc credit
+credit#12/14/2013#12.43#misc credit
+credit#10/19/2013#345.21#misc credit
+credit#10/25/2013#42.73#misc credit
+credit#11/27/2013#151.25#misc credit
+credit#03/03/2013#395.53#misc credit
+credit#12/07/2013#502.2#misc credit
+credit#12/05/2013#217.15#misc credit
+debit#10/09/2013#338.75#misc debit
+credit#09/27/2013#25.24#misc credit
+credit#08/26/2013#224.27#misc credit
+debit#03/21/2013#174.53#misc debit
+credit#06/22/2013#501.93#misc credit
+debit#03/01/2013#162.71#misc debit
+checking#9833-10000950#10038.94#15#15
+credit#01/22/2013#9857.0#initial deposit
+credit#08/23/2013#356.1#misc credit
+credit#08/16/2013#64.37#misc credit
+credit#05/15/2013#136.82#misc credit
+credit#11/15/2013#152.36#misc credit
+debit#04/06/2013#421.78#misc debit
+credit#04/07/2013#212.8#misc credit
+debit#07/15/2013#277.03#misc debit
+debit#06/17/2013#383.16#misc debit
+debit#11/20/2013#52.9#misc debit
+debit#02/14/2013#197.05#misc debit
+credit#01/18/2013#375.8#misc credit
+debit#07/02/2013#108.24#misc debit
+credit#09/23/2013#437.92#misc credit
+debit#11/03/2013#114.07#misc debit
+savings#7829-10000533#7912.0#1#1
+credit#04/19/2013#7912.0#initial deposit
+savings#5811-10000598#10639.31#12#12
+credit#03/25/2013#9621.0#initial deposit
+debit#02/27/2013#233.78#misc debit
+credit#06/16/2013#194.2#misc credit
+credit#05/18/2013#382.55#misc credit
+credit#02/06/2013#183.0#misc credit
+debit#08/18/2013#423.33#misc debit
+credit#03/15/2013#495.8#misc credit
+credit#07/20/2013#55.98#misc credit
+debit#03/12/2013#67.8#misc debit
+credit#11/10/2013#274.69#misc credit
+credit#04/24/2013#368.41#misc credit
+debit#01/13/2013#211.41#misc debit
+Kathy#Daniel#10600#03/13/1989#1327 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9240#2
+savings#9647-1000012#6249.23#5#5
+credit#09/04/2013#7000.0#initial deposit
+debit#04/19/2013#355.64#misc debit
+debit#11/16/2013#453.18#misc debit
+debit#11/14/2013#417.97#misc debit
+credit#09/21/2013#476.02#misc credit
+checking#8383-10000954#4917.25#18#18
+credit#01/05/2013#6753.0#initial deposit
+credit#12/13/2013#296.56#misc credit
+debit#10/06/2013#479.63#misc debit
+debit#12/10/2013#17.05#misc debit
+credit#12/01/2013#48.6#misc credit
+debit#06/19/2013#497.38#misc debit
+debit#01/19/2013#405.11#misc debit
+credit#01/10/2013#67.41#misc credit
+debit#11/15/2013#279.97#misc debit
+debit#08/07/2013#21.55#misc debit
+debit#04/10/2013#399.5#misc debit
+debit#09/22/2013#333.8#misc debit
+debit#04/08/2013#498.47#misc debit
+credit#11/05/2013#405.66#misc credit
+credit#09/17/2013#464.54#misc credit
+debit#01/24/2013#72.45#misc debit
+credit#10/27/2013#70.37#misc credit
+debit#09/22/2013#183.98#misc debit
+Arthur#Campbell#10650#03/24/1964#4566 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9260#1
+checking#7461-10000802#9175.530000000002#18#18
+credit#06/05/2013#9231.0#initial deposit
+debit#01/04/2013#425.07#misc debit
+debit#05/24/2013#95.85#misc debit
+credit#05/11/2013#208.37#misc credit
+credit#09/22/2013#85.98#misc credit
+credit#05/26/2013#246.87#misc credit
+credit#02/23/2013#173.59#misc credit
+debit#05/22/2013#223.84#misc debit
+credit#01/20/2013#349.1#misc credit
+credit#08/03/2013#48.34#misc credit
+credit#01/19/2013#43.92#misc credit
+credit#01/19/2013#171.48#misc credit
+credit#09/08/2013#230.15#misc credit
+credit#12/23/2013#140.79#misc credit
+debit#10/06/2013#218.98#misc debit
+debit#01/07/2013#234.34#misc debit
+debit#07/17/2013#412.51#misc debit
+debit#05/13/2013#143.47#misc debit
+Pat#Fields#10700#03/14/1972#1249 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9280#2
+checking#8820-10000932#10052.9#10#10
+credit#08/21/2013#9768.0#initial deposit
+debit#07/24/2013#88.59#misc debit
+credit#01/28/2013#75.31#misc credit
+credit#06/15/2013#229.42#misc credit
+credit#07/28/2013#217.16#misc credit
+credit#10/26/2013#403.43#misc credit
+debit#07/16/2013#144.3#misc debit
+debit#05/21/2013#288.17#misc debit
+debit#01/27/2013#57.91#misc debit
+debit#08/15/2013#61.45#misc debit
+checking#6784-10000558#9380.23#8#8
+credit#04/21/2013#9031.0#initial deposit
+credit#11/11/2013#66.12#misc credit
+credit#02/12/2013#27.38#misc credit
+credit#12/24/2013#474.15#misc credit
+debit#07/19/2013#153.61#misc debit
+debit#08/06/2013#284.28#misc debit
+credit#05/14/2013#130.53#misc credit
+credit#05/26/2013#88.94#misc credit
+Nettie#Mullins#10750#04/26/1960#2575 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9300#1
+checking#5127-10000696#8944.929999999998#15#15
+credit#05/07/2013#9456.0#initial deposit
+debit#11/09/2013#324.73#misc debit
+debit#04/03/2013#145.37#misc debit
+credit#02/06/2013#60.58#misc credit
+debit#03/09/2013#298.88#misc debit
+credit#08/08/2013#152.23#misc credit
+credit#01/01/2013#407.91#misc credit
+credit#01/16/2013#106.38#misc credit
+credit#08/10/2013#211.96#misc credit
+debit#08/22/2013#370.09#misc debit
+debit#12/21/2013#14.47#misc debit
+credit#10/28/2013#219.35#misc credit
+debit#05/16/2013#414.39#misc debit
+credit#03/02/2013#71.47#misc credit
+debit#12/25/2013#173.02#misc debit
+Dolores#Singleton#10800#06/01/1967#1370 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9320#3
+savings#9861-10000446#7683.0#1#1
+credit#10/19/2013#7683.0#initial deposit
+savings#5915-10000273#8972.859999999999#12#12
+credit#06/02/2013#7539.0#initial deposit
+credit#03/02/2013#485.88#misc credit
+credit#06/21/2013#170.53#misc credit
+debit#01/17/2013#356.58#misc debit
+credit#05/05/2013#308.68#misc credit
+credit#09/03/2013#351.33#misc credit
+credit#04/25/2013#167.51#misc credit
+credit#11/13/2013#403.3#misc credit
+credit#09/28/2013#423.8#misc credit
+credit#09/22/2013#42.12#misc credit
+debit#10/21/2013#234.87#misc debit
+debit#11/28/2013#327.84#misc debit
+savings#6929-10000210#10343.48#15#15
+credit#04/19/2013#9127.0#initial deposit
+debit#06/22/2013#76.68#misc debit
+credit#12/21/2013#509.78#misc credit
+debit#08/05/2013#193.37#misc debit
+credit#10/20/2013#254.86#misc credit
+credit#06/15/2013#143.02#misc credit
+debit#01/02/2013#375.58#misc debit
+credit#02/01/2013#79.55#misc credit
+credit#05/08/2013#507.43#misc credit
+debit#02/19/2013#164.91#misc debit
+debit#11/23/2013#38.33#misc debit
+credit#09/04/2013#283.75#misc credit
+debit#06/11/2013#41.12#misc debit
+credit#01/05/2013#90.86#misc credit
+credit#05/03/2013#237.22#misc credit
+Beulah#Weber#10850#07/10/1980#3996 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9340#3
+savings#5663-10000210#10559.91#16#16
+credit#11/22/2013#9964.0#initial deposit
+credit#03/22/2013#489.6#misc credit
+debit#11/12/2013#200.13#misc debit
+credit#02/08/2013#97.28#misc credit
+debit#04/02/2013#119.11#misc debit
+credit#05/11/2013#332.91#misc credit
+credit#08/25/2013#462.25#misc credit
+credit#11/20/2013#325.64#misc credit
+debit#01/18/2013#465.0#misc debit
+debit#07/05/2013#423.63#misc debit
+credit#02/03/2013#442.31#misc credit
+credit#06/03/2013#202.37#misc credit
+debit#07/07/2013#211.04#misc debit
+credit#08/17/2013#309.05#misc credit
+debit#08/08/2013#280.87#misc debit
+debit#06/27/2013#365.72#misc debit
+checking#9301-10000200#6072.939999999999#10#10
+credit#05/15/2013#6065.0#initial deposit
+debit#07/28/2013#369.81#misc debit
+debit#05/10/2013#64.52#misc debit
+credit#02/07/2013#283.56#misc credit
+debit#06/08/2013#396.38#misc debit
+debit#03/18/2013#497.7#misc debit
+credit#10/24/2013#36.63#misc credit
+credit#10/26/2013#413.52#misc credit
+credit#01/25/2013#236.91#misc credit
+credit#08/06/2013#365.73#misc credit
+savings#5461-10000937#5817.419999999999#9#9
+credit#02/24/2013#6067.0#initial deposit
+debit#07/24/2013#424.05#misc debit
+debit#02/16/2013#160.2#misc debit
+credit#12/11/2013#392.03#misc credit
+credit#12/03/2013#203.21#misc credit
+debit#12/06/2013#41.31#misc debit
+credit#09/14/2013#170.82#misc credit
+credit#09/19/2013#99.55#misc credit
+debit#06/13/2013#489.63#misc debit
+Douglas#Bates#10900#12/28/1970#532 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9360#5
+savings#5698-1000091#9038.770000000002#17#17
+credit#02/17/2013#7626.0#initial deposit
+debit#01/11/2013#251.13#misc debit
+credit#09/16/2013#353.15#misc credit
+credit#03/06/2013#446.19#misc credit
+credit#09/15/2013#379.28#misc credit
+credit#01/16/2013#35.37#misc credit
+credit#05/26/2013#48.09#misc credit
+debit#02/15/2013#431.0#misc debit
+credit#07/18/2013#353.95#misc credit
+credit#12/07/2013#475.33#misc credit
+credit#08/21/2013#168.54#misc credit
+debit#09/20/2013#474.39#misc debit
+credit#07/19/2013#263.15#misc credit
+credit#08/23/2013#412.11#misc credit
+debit#03/07/2013#345.36#misc debit
+debit#06/28/2013#255.51#misc debit
+credit#07/24/2013#235.0#misc credit
+savings#5819-10000349#6387.84#8#8
+credit#06/15/2013#7376.0#initial deposit
+debit#09/13/2013#99.12#misc debit
+debit#11/13/2013#206.08#misc debit
+debit#03/18/2013#278.61#misc debit
+debit#04/02/2013#234.35#misc debit
+debit#01/23/2013#101.16#misc debit
+credit#07/25/2013#123.04#misc credit
+debit#02/17/2013#191.88#misc debit
+checking#5449-1000031#9166.430000000002#16#16
+credit#04/23/2013#9098.0#initial deposit
+credit#03/16/2013#441.79#misc credit
+credit#02/17/2013#446.67#misc credit
+debit#06/08/2013#94.86#misc debit
+debit#04/02/2013#323.15#misc debit
+debit#05/24/2013#249.57#misc debit
+debit#05/12/2013#50.54#misc debit
+credit#04/19/2013#108.79#misc credit
+debit#05/16/2013#37.77#misc debit
+credit#07/03/2013#452.24#misc credit
+credit#11/01/2013#110.48#misc credit
+debit#09/23/2013#64.82#misc debit
+credit#12/18/2013#90.27#misc credit
+debit#09/05/2013#507.5#misc debit
+credit#10/14/2013#20.86#misc credit
+debit#08/28/2013#274.46#misc debit
+savings#6038-10000110#9997.100000000002#13#13
+credit#04/08/2013#8737.0#initial deposit
+credit#10/18/2013#470.34#misc credit
+debit#12/20/2013#146.21#misc debit
+credit#10/26/2013#433.11#misc credit
+credit#10/19/2013#147.3#misc credit
+credit#09/20/2013#100.3#misc credit
+debit#06/19/2013#441.89#misc debit
+debit#08/19/2013#359.46#misc debit
+credit#09/24/2013#347.6#misc credit
+debit#04/11/2013#19.18#misc debit
+credit#03/01/2013#18.59#misc credit
+credit#10/01/2013#458.31#misc credit
+credit#11/11/2013#251.29#misc credit
+savings#6982-10000953#8303.499999999998#17#17
+credit#01/15/2013#8801.0#initial deposit
+credit#06/13/2013#143.32#misc credit
+credit#11/25/2013#328.81#misc credit
+debit#03/23/2013#334.54#misc debit
+debit#10/23/2013#228.4#misc debit
+credit#01/16/2013#227.75#misc credit
+credit#01/23/2013#389.38#misc credit
+debit#07/07/2013#313.8#misc debit
+debit#06/03/2013#24.23#misc debit
+credit#12/24/2013#343.55#misc credit
+debit#02/05/2013#361.56#misc debit
+credit#04/14/2013#244.05#misc credit
+credit#02/20/2013#381.49#misc credit
+debit#05/14/2013#446.07#misc debit
+debit#01/05/2013#222.04#misc debit
+debit#12/10/2013#285.39#misc debit
+debit#12/02/2013#339.82#misc debit
+Gail#Herrera#10950#07/11/1988#3881 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9380#4
+savings#9981-10000329#6872.97#9#9
+credit#05/28/2013#7233.0#initial deposit
+debit#09/25/2013#139.14#misc debit
+debit#10/18/2013#241.39#misc debit
+debit#12/28/2013#28.7#misc debit
+credit#03/10/2013#383.53#misc credit
+debit#07/01/2013#180.16#misc debit
+debit#01/08/2013#49.41#misc debit
+debit#05/15/2013#393.48#misc debit
+credit#08/28/2013#288.72#misc credit
+checking#6178-10000594#6190.610000000001#7#7
+credit#02/07/2013#6326.0#initial deposit
+credit#01/09/2013#77.53#misc credit
+credit#12/10/2013#101.05#misc credit
+debit#11/23/2013#380.0#misc debit
+debit#09/06/2013#372.69#misc debit
+credit#09/08/2013#73.92#misc credit
+credit#01/08/2013#364.8#misc credit
+savings#7208-10000969#9129.640000000001#17#17
+credit#08/14/2013#8997.0#initial deposit
+debit#10/21/2013#169.64#misc debit
+credit#09/11/2013#486.28#misc credit
+credit#02/08/2013#195.82#misc credit
+debit#07/14/2013#409.67#misc debit
+debit#02/08/2013#501.88#misc debit
+debit#07/15/2013#202.86#misc debit
+credit#08/28/2013#343.28#misc credit
+credit#10/23/2013#116.4#misc credit
+debit#06/17/2013#425.32#misc debit
+debit#01/18/2013#21.38#misc debit
+credit#04/06/2013#351.67#misc credit
+credit#12/02/2013#391.23#misc credit
+credit#09/01/2013#385.09#misc credit
+debit#11/10/2013#205.33#misc debit
+debit#10/26/2013#102.2#misc debit
+debit#07/15/2013#98.85#misc debit
+savings#7663-10000303#5402.28#11#11
+credit#11/09/2013#6077.0#initial deposit
+credit#06/26/2013#288.99#misc credit
+credit#01/09/2013#25.68#misc credit
+debit#12/16/2013#362.9#misc debit
+debit#01/28/2013#175.14#misc debit
+credit#04/13/2013#89.69#misc credit
+debit#07/22/2013#324.3#misc debit
+credit#04/09/2013#57.1#misc credit
+debit#04/24/2013#366.73#misc debit
+credit#06/11/2013#336.25#misc credit
+debit#05/26/2013#243.36#misc debit
+Jackie#Lowe#11000#07/24/1966#2067 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9400#1
+checking#5908-10000317#10577.480000000001#9#9
+credit#01/18/2013#9789.0#initial deposit
+credit#06/17/2013#499.53#misc credit
+credit#12/15/2013#241.0#misc credit
+credit#10/14/2013#316.06#misc credit
+debit#08/17/2013#84.99#misc debit
+debit#03/18/2013#389.73#misc debit
+credit#04/16/2013#318.33#misc credit
+debit#12/25/2013#101.23#misc debit
+debit#03/08/2013#10.49#misc debit
+Edward#Tate#11050#05/08/1966#2713 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9420#2
+checking#5712-10000732#6678.73#14#14
+credit#02/12/2013#6050.0#initial deposit
+credit#02/22/2013#358.5#misc credit
+credit#07/22/2013#366.26#misc credit
+credit#01/13/2013#251.79#misc credit
+debit#09/08/2013#456.75#misc debit
+credit#10/13/2013#202.87#misc credit
+credit#05/03/2013#428.28#misc credit
+debit#10/06/2013#301.11#misc debit
+debit#08/19/2013#502.43#misc debit
+debit#09/02/2013#342.25#misc debit
+credit#04/07/2013#264.71#misc credit
+debit#08/19/2013#28.42#misc debit
+credit#02/02/2013#226.69#misc credit
+credit#10/05/2013#160.59#misc credit
+savings#9302-10000149#7073.0#11#11
+credit#10/01/2013#7957.0#initial deposit
+debit#05/05/2013#80.36#misc debit
+credit#11/16/2013#136.2#misc credit
+credit#07/24/2013#70.93#misc credit
+debit#12/28/2013#272.55#misc debit
+credit#03/07/2013#13.6#misc credit
+debit#10/05/2013#365.35#misc debit
+debit#09/26/2013#151.04#misc debit
+debit#07/08/2013#509.59#misc debit
+debit#03/04/2013#150.32#misc debit
+credit#02/16/2013#424.48#misc credit
+Glenn#Brady#11100#12/24/1960#4033 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9440#4
+savings#5057-10000890#7065.329999999999#18#18
+credit#05/26/2013#8204.0#initial deposit
+credit#07/09/2013#259.1#misc credit
+debit#07/05/2013#483.2#misc debit
+credit#03/22/2013#349.78#misc credit
+debit#05/18/2013#76.97#misc debit
+debit#05/21/2013#57.52#misc debit
+credit#11/15/2013#337.24#misc credit
+credit#11/03/2013#58.49#misc credit
+debit#11/04/2013#38.06#misc debit
+debit#05/28/2013#425.25#misc debit
+debit#10/04/2013#395.93#misc debit
+debit#06/22/2013#47.46#misc debit
+debit#05/26/2013#317.55#misc debit
+debit#03/04/2013#26.42#misc debit
+credit#10/28/2013#239.15#misc credit
+debit#06/04/2013#435.76#misc debit
+debit#06/11/2013#117.06#misc debit
+credit#12/11/2013#38.75#misc credit
+checking#7252-10000272#6157.110000000001#20#20
+credit#07/09/2013#6124.0#initial deposit
+debit#11/27/2013#379.85#misc debit
+credit#07/22/2013#42.6#misc credit
+debit#12/11/2013#427.25#misc debit
+credit#12/18/2013#280.24#misc credit
+credit#01/16/2013#467.24#misc credit
+debit#08/23/2013#301.07#misc debit
+debit#04/18/2013#407.65#misc debit
+debit#03/28/2013#28.67#misc debit
+credit#01/16/2013#138.46#misc credit
+credit#08/10/2013#33.09#misc credit
+credit#01/21/2013#394.65#misc credit
+debit#08/24/2013#75.23#misc debit
+credit#12/28/2013#11.56#misc credit
+credit#02/25/2013#120.09#misc credit
+credit#07/17/2013#27.48#misc credit
+debit#05/18/2013#426.69#misc debit
+credit#10/03/2013#272.95#misc credit
+credit#01/19/2013#326.61#misc credit
+debit#07/14/2013#35.45#misc debit
+checking#8220-10000391#5123.760000000002#10#10
+credit#02/12/2013#5786.0#initial deposit
+credit#11/10/2013#57.43#misc credit
+credit#08/04/2013#229.37#misc credit
+debit#05/22/2013#218.98#misc debit
+credit#05/10/2013#111.13#misc credit
+debit#05/21/2013#231.78#misc debit
+credit#01/08/2013#129.3#misc credit
+debit#05/15/2013#416.66#misc debit
+debit#02/21/2013#419.19#misc debit
+credit#01/03/2013#97.14#misc credit
+savings#8506-10000150#7027.99#6#6
+credit#03/17/2013#6348.0#initial deposit
+credit#08/08/2013#312.53#misc credit
+debit#01/25/2013#110.51#misc debit
+credit#07/11/2013#502.97#misc credit
+debit#08/27/2013#53.01#misc debit
+credit#06/25/2013#28.01#misc credit
+Herbert#Long#11150#09/11/1989#4751 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9460#5
+checking#5575-10000760#7708.78#14#14
+credit#12/23/2013#7376.0#initial deposit
+credit#05/11/2013#112.33#misc credit
+debit#01/19/2013#10.84#misc debit
+credit#07/27/2013#484.12#misc credit
+debit#12/16/2013#277.59#misc debit
+credit#01/02/2013#313.85#misc credit
+debit#07/02/2013#25.46#misc debit
+debit#06/07/2013#433.85#misc debit
+credit#03/19/2013#17.12#misc credit
+debit#01/08/2013#160.94#misc debit
+debit#06/02/2013#363.67#misc debit
+credit#12/09/2013#291.24#misc credit
+credit#06/27/2013#270.04#misc credit
+credit#05/14/2013#116.43#misc credit
+checking#9853-10000435#7016.91#5#5
+credit#06/06/2013#6692.0#initial deposit
+credit#04/25/2013#436.92#misc credit
+debit#08/18/2013#392.89#misc debit
+credit#10/08/2013#475.55#misc credit
+debit#10/19/2013#194.67#misc debit
+savings#9876-10000245#7741.19#2#2
+credit#01/17/2013#7509.0#initial deposit
+credit#08/12/2013#232.19#misc credit
+savings#7796-10000955#7468.14#2#2
+credit#08/10/2013#7922.0#initial deposit
+debit#04/12/2013#453.86#misc debit
+checking#8023-10000802#6213.649999999998#10#10
+credit#02/10/2013#6969.0#initial deposit
+debit#05/08/2013#142.76#misc debit
+debit#07/02/2013#79.85#misc debit
+credit#06/18/2013#200.44#misc credit
+credit#03/28/2013#329.83#misc credit
+debit#11/21/2013#431.55#misc debit
+debit#01/20/2013#429.06#misc debit
+debit#08/18/2013#190.33#misc debit
+credit#01/27/2013#240.9#misc credit
+debit#07/18/2013#252.97#misc debit
+Beth#Brown#11200#03/11/1981#1142 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9480#1
+savings#7600-10000950#5193.600000000001#10#10
+credit#11/24/2013#6057.0#initial deposit
+debit#12/12/2013#478.01#misc debit
+credit#06/24/2013#10.22#misc credit
+debit#12/09/2013#255.49#misc debit
+credit#12/09/2013#16.52#misc credit
+credit#08/14/2013#304.95#misc credit
+debit#08/09/2013#131.94#misc debit
+debit#06/08/2013#226.91#misc debit
+credit#03/24/2013#339.34#misc credit
+debit#09/07/2013#442.08#misc debit
+Nicholas#Cortez#11250#11/21/1964#701 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9500#3
+savings#9281-10000807#6251.73#4#4
+credit#10/14/2013#6723.0#initial deposit
+debit#05/01/2013#287.31#misc debit
+credit#06/28/2013#165.82#misc credit
+debit#07/07/2013#349.78#misc debit
+savings#9885-10000387#6643.869999999999#11#11
+credit#08/16/2013#6186.0#initial deposit
+credit#06/19/2013#407.55#misc credit
+debit#11/05/2013#114.47#misc debit
+credit#12/12/2013#232.97#misc credit
+debit#07/08/2013#298.0#misc debit
+debit#04/02/2013#259.41#misc debit
+credit#05/07/2013#148.65#misc credit
+debit#03/16/2013#298.89#misc debit
+credit#10/26/2013#330.69#misc credit
+credit#09/17/2013#471.19#misc credit
+debit#06/03/2013#162.41#misc debit
+savings#6370-10000221#6249.700000000001#10#10
+credit#09/01/2013#7237.0#initial deposit
+debit#04/11/2013#499.33#misc debit
+credit#06/25/2013#318.44#misc credit
+debit#07/28/2013#103.24#misc debit
+debit#12/05/2013#157.42#misc debit
+debit#05/13/2013#478.09#misc debit
+debit#10/27/2013#168.15#misc debit
+debit#01/22/2013#135.87#misc debit
+credit#02/19/2013#224.59#misc credit
+credit#11/23/2013#11.77#misc credit
+Nina#Sutton#11300#11/25/1977#1114 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9520#2
+savings#6059-10000894#6426.679999999999#9#9
+credit#02/14/2013#6901.0#initial deposit
+credit#08/20/2013#336.5#misc credit
+debit#08/09/2013#10.81#misc debit
+debit#12/06/2013#357.96#misc debit
+debit#05/09/2013#145.43#misc debit
+debit#03/10/2013#472.21#misc debit
+credit#03/01/2013#116.25#misc credit
+debit#02/23/2013#402.28#misc debit
+credit#10/16/2013#461.62#misc credit
+checking#6425-10000900#4437.170000000001#18#18
+credit#02/23/2013#5876.0#initial deposit
+credit#11/06/2013#121.04#misc credit
+debit#06/22/2013#420.3#misc debit
+credit#07/27/2013#426.33#misc credit
+credit#06/25/2013#28.6#misc credit
+debit#07/19/2013#425.0#misc debit
+debit#09/15/2013#505.44#misc debit
+debit#07/14/2013#324.86#misc debit
+debit#01/14/2013#272.56#misc debit
+debit#07/08/2013#462.67#misc debit
+credit#09/16/2013#50.46#misc credit
+debit#07/12/2013#80.1#misc debit
+debit#12/17/2013#277.22#misc debit
+credit#11/25/2013#452.58#misc credit
+credit#01/27/2013#394.6#misc credit
+credit#06/25/2013#414.82#misc credit
+debit#02/03/2013#413.41#misc debit
+debit#12/09/2013#145.7#misc debit
+Amber#Wilkerson#11350#03/14/1973#1629 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9540#4
+checking#6723-10000761#10814.84#14#14
+credit#09/18/2013#9789.0#initial deposit
+credit#10/16/2013#477.85#misc credit
+debit#04/07/2013#102.52#misc debit
+credit#10/20/2013#307.09#misc credit
+credit#08/18/2013#74.81#misc credit
+credit#09/01/2013#333.81#misc credit
+debit#04/15/2013#235.94#misc debit
+credit#07/01/2013#450.33#misc credit
+credit#03/21/2013#232.62#misc credit
+credit#03/02/2013#247.28#misc credit
+credit#07/19/2013#223.92#misc credit
+debit#06/01/2013#507.09#misc debit
+debit#11/28/2013#96.86#misc debit
+debit#09/02/2013#379.46#misc debit
+checking#9185-10000872#8757.190000000002#11#11
+credit#02/14/2013#8994.0#initial deposit
+debit#10/18/2013#152.43#misc debit
+credit#10/03/2013#408.11#misc credit
+debit#08/17/2013#97.3#misc debit
+debit#04/08/2013#163.65#misc debit
+debit#07/06/2013#399.75#misc debit
+debit#02/01/2013#97.74#misc debit
+credit#08/24/2013#82.36#misc credit
+credit#01/17/2013#96.69#misc credit
+debit#01/17/2013#323.41#misc debit
+credit#01/28/2013#410.31#misc credit
+checking#6343-10000408#9942.23#7#7
+credit#04/25/2013#9536.0#initial deposit
+credit#01/05/2013#69.5#misc credit
+debit#03/21/2013#231.91#misc debit
+debit#07/03/2013#502.18#misc debit
+credit#05/26/2013#495.82#misc credit
+credit#04/15/2013#246.48#misc credit
+credit#05/02/2013#328.52#misc credit
+savings#7877-10000377#6568.780000000001#6#6
+credit#03/26/2013#6293.0#initial deposit
+debit#03/09/2013#188.86#misc debit
+credit#06/06/2013#402.0#misc credit
+credit#07/20/2013#236.35#misc credit
+credit#04/01/2013#192.07#misc credit
+debit#10/04/2013#365.78#misc debit
+Rick#Frazier#11400#07/27/1963#4113 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9560#4
+checking#9592-10000381#5014.65#16#16
+credit#01/19/2013#5225.0#initial deposit
+debit#10/11/2013#280.26#misc debit
+credit#08/14/2013#222.11#misc credit
+debit#04/05/2013#415.13#misc debit
+credit#09/12/2013#390.15#misc credit
+credit#07/25/2013#146.06#misc credit
+debit#01/12/2013#440.32#misc debit
+credit#12/21/2013#478.55#misc credit
+credit#06/27/2013#476.6#misc credit
+credit#05/08/2013#294.01#misc credit
+debit#03/03/2013#299.16#misc debit
+debit#11/21/2013#348.55#misc debit
+credit#07/26/2013#26.36#misc credit
+credit#11/16/2013#260.99#misc credit
+debit#03/10/2013#284.85#misc debit
+debit#08/26/2013#436.91#misc debit
+savings#6346-1000062#9706.000000000002#6#6
+credit#01/05/2013#9697.0#initial deposit
+debit#09/21/2013#374.96#misc debit
+credit#08/13/2013#335.32#misc credit
+credit#09/17/2013#350.95#misc credit
+debit#01/22/2013#326.18#misc debit
+credit#02/01/2013#23.87#misc credit
+checking#9136-10000579#5710.0199999999995#4#4
+credit#01/25/2013#5725.0#initial deposit
+credit#03/13/2013#128.57#misc credit
+debit#10/16/2013#305.47#misc debit
+credit#12/23/2013#161.92#misc credit
+savings#5340-10000618#8639.61#7#7
+credit#10/03/2013#9792.0#initial deposit
+debit#06/21/2013#347.64#misc debit
+debit#04/21/2013#378.17#misc debit
+debit#08/05/2013#170.44#misc debit
+credit#10/23/2013#301.59#misc credit
+debit#10/25/2013#385.01#misc debit
+debit#11/05/2013#172.72#misc debit
+Kim#Evans#11450#05/07/1975#3938 FoxFire Road, SmallVille, AZ 33443#444-444-4444#9580#1
+savings#5594-1000074#4880.03#6#6
+credit#08/26/2013#5350.0#initial deposit
+debit#08/03/2013#325.76#misc debit
+debit#02/21/2013#88.87#misc debit
+debit#10/17/2013#171.57#misc debit
+credit#04/05/2013#30.62#misc credit
+credit#08/24/2013#85.61#misc credit
